@@ -8,7 +8,8 @@ La aplicación te permite buscar información sobre diferentes Pokémon utilizan
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla](url_de_la_imagen)
+
+(https://github.com/Mayonesio/pokemon/assets/118255377/c3421d6d-6801-4b8d-827c-9d92326e6719)
 
 ## Características
 
@@ -22,4 +23,4 @@ La aplicación te permite buscar información sobre diferentes Pokémon utilizan
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU_NOMBRE_DE_USUARIO_EN_GITHUB/pokedesk.git
+git clone https://github.com/mayonesio/pokedesk.git
