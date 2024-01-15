@@ -20,7 +20,7 @@ const Pokedex = (props) => {
     <div>
       <div className='pagination-container'>
         <h1>POKEDEX</h1>
-        <div>
+        <div className='paginacion-controladores'>
           <Pagination
             page={page + 1}
             totalPages={total}

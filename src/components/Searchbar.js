@@ -28,8 +28,8 @@ const Searchbar = (props) => {
         <input placeholder="Busca tu pokemon" 
         className="input" 
         onChange ={onChange} />
-      </div>
       <button onClick={onClick}>Catch'em all</button>
+      </div>
       <div>
         {pokemon && 
         <div className='card-client'>
